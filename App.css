@@ -1,0 +1,31 @@
+/* Styling for external class demo */
+.card-container {
+    background-color: #e3fafc;
+    border: 2px solid #1098ad;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 5px;
+}
+
+.highlight-text {
+    color: #0b7285;
+    font-size: 18px;
+    margin: 0;
+}
+
+/* Image sizing styling */
+.demo-img {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 10px 0;
+}
+
+/* Input styling */
+.custom-input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    max-width: 300px;
+}
