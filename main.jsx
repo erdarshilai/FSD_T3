@@ -1,6 +1,8 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import Pb356 from './Pb356'
+import Pb385 from './Pb385'
+//import Pb356 from './Pb356'
+// import Formd from './Formd'
 // import './index.css'
 // import Propsd from './Propsd.jsx'
 // import Pb306 from './Pb306.jsx'
@@ -26,6 +28,8 @@ createRoot(document.getElementById('root')).render(
     <Contactd></Contactd> */}
     {/* <Routed></Routed> */}
     {/* <Countd></Countd> */}
-    <Pb356></Pb356>
+    {/* <Pb356></Pb356> */}
+    {/* <Formd></Formd> */}
+    <Pb385></Pb385>
   </StrictMode>
 )
