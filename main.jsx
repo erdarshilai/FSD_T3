@@ -1,6 +1,10 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import Pb385 from './Pb385'
+import AxiosD from './AxiosD'
+// import Comp from './Comp'
+// import ContextD from './ContextD'
+// import CountDR from './CountDR'
+// import Pb385 from './Pb385'
 //import Pb356 from './Pb356'
 // import Formd from './Formd'
 // import './index.css'
@@ -30,6 +34,11 @@ createRoot(document.getElementById('root')).render(
     {/* <Countd></Countd> */}
     {/* <Pb356></Pb356> */}
     {/* <Formd></Formd> */}
-    <Pb385></Pb385>
+    {/* <Pb385></Pb385> */}
+    {/* <CountDR></CountDR> */}
+    {/* <ContextD></ContextD> */}
+    {/* <Comp></Comp> */}
+    <AxiosD></AxiosD>
   </StrictMode>
+
 )

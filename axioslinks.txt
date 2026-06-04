@@ -1,0 +1,6 @@
+Axios Links
+
+https://dog.ceo/api/breeds/image/random
+https://official-joke-api.appspot.com/random_joke
+https://api.thecatapi.com/v1/images/search
+https://dummyjson.com/quotes/random
