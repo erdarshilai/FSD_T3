@@ -1,6 +1,8 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
-import AxiosD from './AxiosD'
+import Pb387 from './Pb387.jsx'
+// import AxiosD from './AxiosD'
+// import App1 from './App1'
 // import Comp from './Comp'
 // import ContextD from './ContextD'
 // import CountDR from './CountDR'
@@ -38,7 +40,11 @@ createRoot(document.getElementById('root')).render(
     {/* <CountDR></CountDR> */}
     {/* <ContextD></ContextD> */}
     {/* <Comp></Comp> */}
-    <AxiosD></AxiosD>
+    {/* <AxiosD></AxiosD> */}
+    {/* <App1></App1> */}
+    <Pb387></Pb387>
   </StrictMode>
+
+
 
 )
